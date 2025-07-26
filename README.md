@@ -1,6 +1,6 @@
 # VOICEVOX Audio Generator for Anki
 
-> Note: This is a forked repository of the original one, where I modified it in such a way that it will generate two fields instead of one (for convenient).
+> Note: This is a forked repository of the original one, where I modified it in such a way that it will generate audio of two fields instead of one (for convenient).
 
 Generate high quality Japanese audio for your Anki cards using the VOICEVOX speech synthesis software
 
